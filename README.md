@@ -21,4 +21,19 @@
 - **Modular for Easy Development:** The code is divided into multiple files for better organization and easier development.
 ```utils``` ```ui``` ```core```
 
+## Installation 🌸
+1 - **Clone the repository**
+```git clone https://github.com/0Rafas/Rafef-Discord-RCE.git```
+ 2 - **Requirements :**
+The tool requires Python 3.x. No additional external libraries are needed.
+
+
+## Credits 👤
+Rafas 🍑
+
+
+
+
+
+
 
